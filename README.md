@@ -7,15 +7,21 @@ I enjoy working close to the metal, whether it’s programming microcontrollers,
 
 ### 👩‍💻 About Me
 - Passionate about **embedded development**, **real-time systems**, and **robotics**
-- Proficient in **C** and **C#**, and currently learning **C++**
+- Proficient in **C** and **C++**
 - Always eager to learn and experiment with new tools, languages, and technologies
 
 ---
 
 ### 🔧 Tech Stack
-- 💻 Languages: C, C#, C++
+- 💻 Languages: C, C++
 - 🔌 Platforms: Microcontrollers (PIC and Raspberry Pi Pico)
 - 🤖 Interests: Robotics, sensor integration, control systems
+
+---
+
+### Current Projects
+- Discord app
+- Full Stack Development Learning
 
 ---
 
